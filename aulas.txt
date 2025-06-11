@@ -1,0 +1,6 @@
+Matemática - Prof. Ana 45
+Física - Prof. Bruno 60
+História - Prof. Carla 50
+Química - Prof. Daniel 40
+Geografia - Prof. Ana 30
+Biologia - Prof. Bruno 50
